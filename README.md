@@ -1,4 +1,4 @@
-![I love Javascript](forReadme.png)
+![I love Javascript](https://github.com/karthikaH/karthikaH/blob/master/forReadme.png)
 
 <!--
 **karthikaH/karthikaH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
